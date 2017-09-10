@@ -1,4 +1,4 @@
-function login {
+function login() {
   var x;
   prompt(x);
   if (x == "password") {
