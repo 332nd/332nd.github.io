@@ -1,5 +1,6 @@
 html {
   background-color: grey;
+  font-family: monspace;
 }
 
 #header {
@@ -12,4 +13,9 @@ html {
 
 #header a {
   color: silver;
+}
+
+#welcome {
+  text-align: center;
+  width: 1200px;
 }
