@@ -18,4 +18,6 @@ html {
 #welcome {
   text-align: center;
   width: 1200px;
+  color: grey;
+  background-color: black;
 }
